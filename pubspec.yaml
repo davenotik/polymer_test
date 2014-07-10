@@ -1,0 +1,9 @@
+name: polymer_test
+dependencies:
+  browser: any
+  core_elements: any
+  polymer: any
+transformers:
+- polymer:
+    entry_points:
+    - web/index.html
